@@ -1,0 +1,87 @@
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: rgb(39, 39, 39);
+  color: white;
+}
+div h1 {
+  color: rgb(5, 5, 92);
+  background-color: cadetblue;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 15px;
+  border: 3px solid rgba(5, 5, 92, 0.966);
+  width: 1290px;
+}
+.container p {
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+}
+img {
+  width: 500px;
+  height: auto;
+}
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+}
+.charts {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+}
+h2 {
+  border-top: 3px solid red;
+}
+table {
+  border: 2px solid;
+  margin-left: 150px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 5px;
+}
+th {
+  padding: 5px;
+  text-align: center;
+  border: 3px solid red;
+}
+td {
+  padding: 5px;
+  text-align: center;
+  border: 2px solid red;
+}
+/* tr {
+  border: 2px solid white;
+} */
+.Analysis {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  color: red;
+}
+.special {
+  margin-top: 5px;
+  /* display: block; */
+}
+img {
+  border-bottom: 3px solid red;
+  padding-bottom: 7px;
+}
+.img-sp {
+  margin-top: 1px;
+}
+.bottom {
+  padding-bottom: 80px;
+  justify-self: 20px;
+}
+.pie-chart-head {
+  padding-top: 55px;
+}
+/* bottom::after {
+  content: "lines passes is the companies score"; */
+/* } */

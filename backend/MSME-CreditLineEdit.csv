@@ -1,0 +1,27 @@
+loan_amnt,term,int_rate,installment,grade,sub_grade,emp_title,emp_length,home_ownership,annual_inc,verification_status,issue_d,loan_status,purpose,title,dti,earliest_cr_line,open_acc,pub_rec,revol_bal,revol_util,total_acc,initial_list_status,application_type,mort_acc,pub_rec_bankruptcies,address
+10000.0, 36 months,11.44,329.48,B,B4,Marketing,10+ years,RENT,117000.0,Not Verified,Jan-2015,Fully Paid,vacation,Vacation,26.24,Jun-1990,16.0,0.0,36369.0,41.8,25.0,w,INDIVIDUAL,0.0,0.0,"0174 Michelle Gateway
+Mendozaberg, OK 22690"
+8000.0, 36 months,11.99,265.68,B,B5,Credit analyst ,4 years,MORTGAGE,65000.0,Not Verified,Jan-2015,Fully Paid,debt_consolidation,Debt consolidation,22.05,Jul-2004,17.0,0.0,20131.0,53.3,27.0,f,INDIVIDUAL,3.0,0.0,"1076 Carney Fort Apt. 347
+Loganmouth, SD 05113"
+15600.0, 36 months,10.49,506.97,B,B3,Statistician,< 1 year,RENT,43057.0,Source Verified,Jan-2015,Fully Paid,credit_card,Credit card refinancing,12.79,Aug-2007,13.0,0.0,11987.0,92.2,26.0,f,INDIVIDUAL,0.0,0.0,"87025 Mark Dale Apt. 269
+New Sabrina, WV 05113"
+7200.0, 36 months,6.49,220.65,A,A2,Client Advocate,6 years,RENT,54000.0,Not Verified,Nov-2014,Fully Paid,credit_card,Credit card refinancing,2.6,Sep-2006,6.0,0.0,5472.0,21.5,13.0,f,INDIVIDUAL,0.0,0.0,"823 Reid Ford
+Delacruzside, MA 00813"
+24375.0, 60 months,17.27,609.33,C,C5,Destiny Management Inc.,9 years,MORTGAGE,55000.0,Verified,Apr-2013,Charged Off,credit_card,Credit Card Refinance,33.95,Mar-1999,13.0,0.0,24584.0,69.8,43.0,f,INDIVIDUAL,1.0,0.0,"679 Luna Roads
+Greggshire, VA 11650"
+20000.0, 36 months,13.33,677.07,C,C3,HR Specialist,10+ years,MORTGAGE,86788.0,Verified,Sep-2015,Fully Paid,debt_consolidation,Debt consolidation,16.31,Jan-2005,8.0,0.0,25757.0,100.6,23.0,f,INDIVIDUAL,4.0,0.0,"1726 Cooper Passage Suite 129
+North Deniseberg, DE 30723"
+18000.0, 36 months,5.32,542.07,A,A1,Software Development Engineer,2 years,MORTGAGE,125000.0,Source Verified,Sep-2015,Fully Paid,home_improvement,Home improvement,1.36,Aug-2005,8.0,0.0,4178.0,4.9,25.0,f,INDIVIDUAL,3.0,0.0,"1008 Erika Vista Suite 748
+East Stephanie, TX 22690"
+13000.0, 36 months,11.14,426.47,B,B2,Office Depot,10+ years,RENT,46000.0,Not Verified,Sep-2012,Fully Paid,credit_card,No More Credit Cards,26.87,Sep-1994,11.0,0.0,13425.0,64.5,15.0,f,INDIVIDUAL,0.0,0.0,"USCGC Nunez
+FPO AE 30723"
+18900.0, 60 months,10.99,410.84,B,B3,Application Architect,10+ years,RENT,103000.0,Verified,Oct-2014,Fully Paid,debt_consolidation,Debt consolidation,12.52,Jun-1994,13.0,0.0,18637.0,32.9,40.0,w,INDIVIDUAL,3.0,0.0,"USCGC Tran
+FPO AP 22690"
+26300.0, 36 months,16.29,928.4,C,C5,Regado Biosciences,3 years,MORTGAGE,115000.0,Verified,Apr-2012,Fully Paid,debt_consolidation,Debt Consolidation,23.69,Dec-1997,13.0,0.0,22171.0,82.4,37.0,f,INDIVIDUAL,1.0,0.0,"3390 Luis Rue
+Mauricestad, VA 00813"
+10000.0, 36 months,13.11,337.47,B,B4,Sodexo,2 years,RENT,95000.0,Verified,Jun-2013,Fully Paid,debt_consolidation,Debt Consolidation,12.04,Dec-1990,5.0,1.0,4702.0,64.4,26.0,f,INDIVIDUAL,4.0,1.0,"40245 Cody Drives
+Bartlettfort, NM 00813"
+35000.0, 36 months,14.64,1207.13,C,C3,Director Bureau of Equipment Inventory,8 years,MORTGAGE,130000.0,Verified,May-2014,Fully Paid,credit_card,Credit card refinancing,12.19,May-1984,30.0,0.0,81263.0,18.7,61.0,w,INDIVIDUAL,4.0,0.0,"3126 Sean Dale Apt. 141
+South Matthew, MS 00813"
+7500.0, 36 months,9.17,239.1,B,B2,Social Work/Care Manager,7 years,OWN,55000.0,Not Verified,Dec-2015,Fully Paid,debt_consolidation,Debt consolidation,28.21,Apr-1995,13.0,0.0,17838.0,54.9,35.0,w,JOINT,4.0,0.0,"4173 David Extension
+West Beckyfort, MS 70466"
